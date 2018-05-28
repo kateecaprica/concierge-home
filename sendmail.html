@@ -1,0 +1,13 @@
+<?php
+
+ $headers = 'From: ' . $_POST["name"] . ' <' . $_POST["email"] . ">\r\n";
+
+ mail ( 
+   "support@symbolicconcierge.com" , 
+   $_POST["subject"] , 
+   $_POST["message"] ."\n\nPhone: " .$_POST["phone"] ,
+   $headers);
+
+   header("Location: sent.html");
+
+?>
