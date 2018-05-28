@@ -1,8 +1,8 @@
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="index.html"><img src="img/logo.png" height="70" width="71" alt="" title="" /></a>
+			        <a href="index.html"><img src="img/logo.png" id="circle-logo" alt="" title="" /></a>
 			
-			        <img src="img/symbolic_logo_text.png" height="70" width="246"/>
+			        <img src="img/symbolic_logo_text.png" id="text-logo" height="70" width="246"/>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">

@@ -4606,3 +4606,18 @@ dl.toggle.time-line:before {
 /*-------- end footer Area -------------*/
 
 /*# sourceMappingURL=css/main.css.map */
+
+
+/* User Added */
+#circle-logo {
+  height: 70px;
+  width: 71px;
+}
+
+@media screen and (max-width: 750px) {
+  #circle-logo, #text-logo {
+    height: auto;
+    width: auto;
+    max-height: auto;
+  }
+}
