@@ -2360,7 +2360,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/banner-bg.jpg) right;
+  background: url(../img/symbolic-bg.jpg) right;
   background-size: cover;
 }
 .banner-area .overlay-bg {
@@ -2884,7 +2884,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-  background: url(../img/top-banner.jpg) right no-repeat;
+  background: url(../img/banner-bentley.jpg) right no-repeat;
   background-size: cover;
 }
 
