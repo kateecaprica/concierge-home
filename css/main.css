@@ -2360,7 +2360,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/symbolic-bg.jpg) right;
+  background: url(../img/symbolic-bg-resized.jpg) right;
   background-size: cover;
 }
 .banner-area .overlay-bg {
